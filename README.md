@@ -23,3 +23,15 @@ pip3 install pyusb --user
 ```
 3. **LibUSB**
 The dependency for PyUSB, the prepackaged binaries will be easily accessible for all widely used distributions of GNU/Linux, Windows as well as MacOS.
+
+## Installation
+
+```sh
+chmod +x driver.py
+# Execute using
+sudo ./driver.py
+```
+On windows. from command prompt with admin privileges
+```
+python3 driver.py
+```
